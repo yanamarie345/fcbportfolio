@@ -20,9 +20,8 @@ h1, p{
 
 /* ID selector for selecting image*/
 #profile {
-	height: 20%;
+	height: 40%;
 	width: 40%;
-	border-radius: 50%;
 }
 
 body{
